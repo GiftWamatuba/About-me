@@ -1,7 +1,7 @@
 # About-me
 # 💫 About Me:
-I'm currently working on building apps with flutter and web development projects<br>I'm looking to collaborate on front end projects<br>
-I specialize in creating responsive user interfaces and enjoy exploring the latest trends in web and mobile development. I'm passionate about open-source and creating innovative solutions that push the boundaries of front-end development<br>
+I'm currently working on building apps with flutter and web development projects<br>I'm looking to collaborate on front end and back end  projects<br>
+I specialize in creating responsive user interfaces and enjoy exploring the latest trends in web and mobile development. I'm passionate about open-source and creating innovative solutions that push the boundaries of both front end and back end development<br>
 
 
 ## 🌐 Socials:
