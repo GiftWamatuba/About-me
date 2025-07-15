@@ -1,6 +1,7 @@
 # About-me
 # 💫 About Me:
-I'm currently working on building apps with flutter and web development projects<br<br>
+UI/UX Designer | UX Engineer | Design Engineer
+I'm currently working on building apps with flutter and web development projects
 I specialize in creating responsive user interfaces and enjoy exploring the latest trends in web and mobile development. I'm passionate about open-source and creating innovative solutions that push the boundaries of front end development<br>
 
 
